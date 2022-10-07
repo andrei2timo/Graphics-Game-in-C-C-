@@ -1,0 +1,25 @@
+# depslib dependency file v1.0
+1510048110 source:c:\users\suvit\desktop\proiect\main.cpp
+	<iostream>
+	<fstream>
+	<cstdlib>
+	<graphics.h>
+
+1510045032 source:c:\documents and settings\11_e\desktop\proiect\main.cpp
+	<iostream>
+	<fstream>
+	<cstdlib>
+	<graphics.h>
+
+1510080619 source:d:\clasa a 11-a\informatica\lucrate in clasa\backtracking\proiect- serious sam\main.cpp
+	<iostream>
+	<fstream>
+	<cstdlib>
+	<graphics.h>
+
+1510084219 source:c:\users\suvit\desktop\backtracking\proiect- serious sam\main.cpp
+	<iostream>
+	<fstream>
+	<cstdlib>
+	<graphics.h>
+
